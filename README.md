@@ -1,7 +1,7 @@
 # Evaluacion Back-end
 
 Desarrolo de un API Rest con PHP utilizando el framework laravel, en el cual se tienen los endpoint los cuales seran utilizados desde la aplicacion
-de ReactJs para su utilizacion.
+de ReactJs.
 
 ## Requisitos Previos
 
