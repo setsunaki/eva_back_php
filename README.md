@@ -20,14 +20,15 @@ Para configurar la base de datos se debe ejecutar el archivo `database.sql`
 el cual creara el Schema de la bd junto a una pequeña muestra de datos, este archivo se debe ejecutar 
 en MySQL.
 
-Luego se tiene que configurar el .env con los siguientes datos
-DB_CONNECTION=mysql
-DB_HOST=127.0.0.1
-DB_PORT=3306
-DB_DATABASE=api_eva
-DB_USERNAME=eva
-DB_PASSWORD=
-
+Luego se tiene que configurar el .env con los siguientes datos:
+```env
+   DB_CONNECTION=mysql
+   DB_HOST=127.0.0.1
+   DB_PORT=3306
+   DB_DATABASE=api_eva
+   DB_USERNAME=eva
+   DB_PASSWORD=
+```
 teniendo todo esto configurado ejecutar el siguiente comando.
 
 ```bash
